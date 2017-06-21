@@ -1,0 +1,22 @@
+{
+  "name": "mini-timedirective",
+  "version": "1.0.0",
+  "description": "mini-timeDirective ==================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jboucher8/mini-timeDirective.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jboucher8/mini-timeDirective/issues"
+  },
+  "homepage": "https://github.com/jboucher8/mini-timeDirective#readme",
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
+}
